@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">geng1_SubBook</string>
+    <string name="subscription_list">Subscription List:</string>
+    <string name="button_add">ADD</string>
+    <string name="total">Total:</string>
+    <string name="total_num">:$ 0.00</string>
+
+    <string name="name_str">Name:</string>
+    <string name="date_str">Date:</string>
+    <string name="amount_str">Amount:</string>
+    <string name="comment_str">Comment:</string>
+    <string name="required">Required</string>
+    <string name="optional">Optional</string>
+
+    <string name="enter_name">Please enter a name</string>
+    <string name="enter_date">yyyy-mm-dd</string>
+    <string name="enter_amount">(CAD)</string>
+    <string name="enter_comment">Optional</string>
+
+    <string name="dateError">Check your date format!</string>
+    <string name="amountError">Check your amount!</string>
+    <string name="nameError">Get a name!</string>
+    <string name="delete">Delete</string>
+
+</resources>
